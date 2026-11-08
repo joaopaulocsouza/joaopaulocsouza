@@ -15,16 +15,33 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou **desenvolvedor Full Stack** com mais de **5 anos de experiência**, bacharel em **Ciência da Computação pela UEL**. Construo aplicações escaláveis e centradas no usuário, com foco em UX/UI, performance, acessibilidade e clean code.
+Sou **desenvolvedor Full Stack** com mais de **5 anos de experiência**, especializado no desenvolvimento de aplicações escaláveis e centradas no usuário utilizando **React, React Native, Angular, Flutter e Electron**. Tenho forte domínio em design de **UX/UI**, otimização de performance web, padrões de acessibilidade e boas práticas de clean code.
 
-- 💼 Hoje sou **Desenvolvedor Full Stack na Concent Sistemas**, criando CRM, atendimento a pacientes, Kanban, chats em tempo real e um **chat com IA (RAG + embeddings)** para laboratórios
-- 🏭 Antes, passei 4 anos na **Tectrol Automação Industrial**, entregando ERP, monitoramento remoto de equipamentos industriais, SSO corporativo e gestão de robôs AMR
-- ⚛️ No front: **React, React Native, Angular, Flutter, Electron e Tailwind**
-- 🛠️ No back: **Node.js, Express, Prisma, PostgreSQL**, WebSockets, SSE e MQTT
-- 🤖 Em IA e cloud: **RAG, embeddings, vector search, Gemini API, AWS Lambda e Azure Functions**
-- 🔄 Acostumado a times ágeis com **Scrum** e **GitFlow**
-- 🌐 Conheça meu trabalho em **[jpcd.dev](https://jpcd.dev)**
-- 📫 Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/joaopaulocsouza)
+No backend, trabalho com **Node.js**, incluindo design de APIs, autenticação e autorização, modelagem de dados com **Prisma ORM** e comunicação em tempo real via **WebSockets** e **Server-Sent Events (SSE)**. Também aplico **IA generativa** nos meus projetos, com **RAG**, geração de embeddings e integração com a **Gemini API**, além de funções serverless na **AWS Lambda**.
+
+Estou acostumado a trabalhar em ambientes ágeis com **Scrum**, usando **GitFlow**, integrações de API e testes unitários, sempre em colaboração com equipes multidisciplinares.
+
+🌐 Conheça meu trabalho em **[jpcd.dev](https://jpcd.dev)** · 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/joaopaulocsouza)
+
+## 💼 Experiência
+
+**Desenvolvedor Full Stack · Concent Sistemas** — _jul/2025 – atual · Londrina, PR_
+- Sistema de **CRM** para gestão de interações com clientes e fluxos de trabalho laboratoriais
+- Sistema completo de **atendimento a pacientes**: gestão de filas, geração de senhas, painéis de atendimento e chamadas
+- **Quadro Kanban** para otimizar os fluxos internos do laboratório e **chats em tempo real** para a comunicação interna
+- **Chat com IA** que consulta documentos, exames e dados internos dos laboratórios, usando **RAG** e embeddings
+- Funções serverless com **AWS Lambda** para automação, protótipos de interface e definição de padrões de desenvolvimento
+
+**Desenvolvedor Full Stack · Tectrol Automação Industrial** — _jul/2021 – jul/2025 · Londrina, PR_
+- Levantamento de requisitos e desenho de fluxos de sistema
+- Interfaces modernas, responsivas e acessíveis, com forte foco em UX/UI
+- Design e implementação de **APIs REST** e comunicação em tempo real com **WebSockets** e **MQTT**
+- Protótipos de interface, documentação técnica e padrões de desenvolvimento
+
+## 🎓 Formação e idiomas
+
+- **Bacharelado em Ciência da Computação** — Universidade Estadual de Londrina (UEL), concluído em fev/2025
+- 🇧🇷 Português nativo · 🇺🇸 Inglês intermediário (boa leitura e compreensão auditiva)
 
 ## 🚀 Projetos em destaque
 
