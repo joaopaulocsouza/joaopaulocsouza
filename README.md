@@ -43,16 +43,6 @@ Estou acostumado a trabalhar em ambientes ágeis com **Scrum**, usando **GitFlow
 - **Bacharelado em Ciência da Computação** — Universidade Estadual de Londrina (UEL), concluído em fev/2025
 - 🇧🇷 Português nativo · 🇺🇸 Inglês intermediário (boa leitura e compreensão auditiva)
 
-## 🚀 Projetos em destaque
-
-| Projeto | O que é |
-| --- | --- |
-| **SUDT (ERP)** | Sistema corporativo de RH, PPC, estoque, relatórios automatizados e ordens de serviço |
-| **DHM 4.0** | Monitoramento remoto de equipamentos da indústria sucroalcooleira |
-| **IndustrySight** | Controle e monitoramento remoto de equipamentos industriais |
-| **Conecta** | Autenticação corporativa com Single Sign-On (SSO) |
-| **Nexus** | Planejamento, monitoramento e gestão de robôs AMR |
-
 ## 🛠️ Tecnologias
 
 <div align="center">
