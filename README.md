@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joaopaulocsouza&label=Visualiza%C3%A7%C3%B5es&color=7aa2f7&style=flat" alt="visualizações do perfil" />
+  <a href="https://jpcd.dev"><img src="https://img.shields.io/badge/jpcd.dev-7aa2f7?style=flat&logo=googlechrome&logoColor=white" alt="landing page jpcd.dev" /></a>
   <a href="https://joaopaulocsouza.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1a1b27?style=flat&logo=githubpages&logoColor=white" alt="portfólio" /></a>
   <a href="https://www.linkedin.com/in/joaopaulocsouza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
@@ -22,6 +23,7 @@ Sou **desenvolvedor Full Stack** com mais de **5 anos de experiência**, bachare
 - 🛠️ No back: **Node.js, Express, Prisma, PostgreSQL**, WebSockets, SSE e MQTT
 - 🤖 Em IA e cloud: **RAG, embeddings, vector search, Gemini API, AWS Lambda e Azure Functions**
 - 🔄 Acostumado a times ágeis com **Scrum** e **GitFlow**
+- 🌐 Conheça meu trabalho em **[jpcd.dev](https://jpcd.dev)**
 - 📫 Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/joaopaulocsouza)
 
 ## 🚀 Projetos em destaque
