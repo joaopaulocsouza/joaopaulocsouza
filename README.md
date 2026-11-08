@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joaopaulocsouza&label=Visualiza%C3%A7%C3%B5es&color=7aa2f7&style=flat" alt="visualizações do perfil" />
   <a href="https://joaopaulocsouza.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1a1b27?style=flat&logo=githubpages&logoColor=white" alt="portfólio" /></a>
+  <a href="https://www.linkedin.com/in/joaopaulocsouza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ## 🧑‍💻 Sobre mim
@@ -19,7 +20,7 @@ Sou desenvolvedor focado em **front-end** e venho da **Ciência da Computação 
 - ⚡ Também me viro bem com **Python, MySQL e Socket.io** para o lado do servidor e aplicações em tempo real
 - 🌱 Sempre aprendendo algo novo e buscando escrever código limpo e bem organizado
 - 🤝 Já desenvolvi projetos como o site do **CACOMP**, o **IEEE Wars** e o **Lobio** — confira no meu [portfólio](https://joaopaulocsouza.github.io)
-- 💬 Pode me chamar para conversar sobre front-end, UI/UX e projetos open source
+- 💬 Pode me chamar para conversar sobre front-end, UI/UX e projetos open source — me encontre no [LinkedIn](https://www.linkedin.com/in/joaopaulocsouza)
 
 ## 🛠️ Tecnologias
 
