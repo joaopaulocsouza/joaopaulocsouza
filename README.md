@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/joaopaulocsouza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Desenvolvedor+Front-end;JavaScript+%7C+TypeScript+%7C+React;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UEL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+TypeScript;IA+generativa+com+RAG+e+Gemini;Londrina%2C+PR+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,18 +14,34 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor focado em **front-end** e venho da **Ciência da Computação na UEL** (Universidade Estadual de Londrina). Gosto de transformar ideias em interfaces bonitas, rápidas e fáceis de usar — do protótipo no **Figma** até a aplicação rodando com **React** e **TypeScript**.
+Sou **desenvolvedor Full Stack** com mais de **5 anos de experiência**, bacharel em **Ciência da Computação pela UEL**. Construo aplicações escaláveis e centradas no usuário, com foco em UX/UI, performance, acessibilidade e clean code.
 
-- 🔭 Trabalho principalmente com **React, React Native, Redux e TypeScript**
-- ⚡ Também me viro bem com **Python, MySQL e Socket.io** para o lado do servidor e aplicações em tempo real
-- 🌱 Sempre aprendendo algo novo e buscando escrever código limpo e bem organizado
-- 🤝 Já desenvolvi projetos como o site do **CACOMP**, o **IEEE Wars** e o **Lobio** — confira no meu [portfólio](https://joaopaulocsouza.github.io)
-- 💬 Pode me chamar para conversar sobre front-end, UI/UX e projetos open source — me encontre no [LinkedIn](https://www.linkedin.com/in/joaopaulocsouza)
+- 💼 Hoje sou **Desenvolvedor Full Stack na Concent Sistemas**, criando CRM, atendimento a pacientes, Kanban, chats em tempo real e um **chat com IA (RAG + embeddings)** para laboratórios
+- 🏭 Antes, passei 4 anos na **Tectrol Automação Industrial**, entregando ERP, monitoramento remoto de equipamentos industriais, SSO corporativo e gestão de robôs AMR
+- ⚛️ No front: **React, React Native, Angular, Flutter, Electron e Tailwind**
+- 🛠️ No back: **Node.js, Express, Prisma, PostgreSQL**, WebSockets, SSE e MQTT
+- 🤖 Em IA e cloud: **RAG, embeddings, vector search, Gemini API, AWS Lambda e Azure Functions**
+- 🔄 Acostumado a times ágeis com **Scrum** e **GitFlow**
+- 📫 Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/joaopaulocsouza)
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que é |
+| --- | --- |
+| **SUDT (ERP)** | Sistema corporativo de RH, PPC, estoque, relatórios automatizados e ordens de serviço |
+| **DHM 4.0** | Monitoramento remoto de equipamentos da indústria sucroalcooleira |
+| **IndustrySight** | Controle e monitoramento remoto de equipamentos industriais |
+| **Conecta** | Autenticação corporativa com Single Sign-On (SSO) |
+| **Nexus** | Planejamento, monitoramento e gestão de robôs AMR |
 
 ## 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,html,css,bootstrap,python,mysql,git,figma&perline=12" alt="tecnologias" />
+  <img src="https://skillicons.dev/icons?i=ts,react,angular,flutter,electron,tailwind&perline=6" alt="front-end" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,python&perline=6" alt="back-end e dados" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,figma&perline=6" alt="cloud e ferramentas" />
 </div>
 
 ## 📊 Estatísticas
