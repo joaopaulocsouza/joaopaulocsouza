@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joaopaulocsouza&label=Visualiza%C3%A7%C3%B5es&color=7aa2f7&style=flat" alt="visualizações do perfil" />
-  <a href="https://jpcd.dev"><img src="https://img.shields.io/badge/jpcd.dev-7aa2f7?style=flat&logo=googlechrome&logoColor=white" alt="landing page jpcd.dev" /></a>
+  <a href="https://jpcs.dev"><img src="https://img.shields.io/badge/jpcs.dev-7aa2f7?style=flat&logo=googlechrome&logoColor=white" alt="landing page jpcs.dev" /></a>
   <a href="https://joaopaulocsouza.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1a1b27?style=flat&logo=githubpages&logoColor=white" alt="portfólio" /></a>
   <a href="https://www.linkedin.com/in/joaopaulocsouza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
@@ -21,7 +21,7 @@ No backend, trabalho com **Node.js**, incluindo design de APIs, autenticação e
 
 Estou acostumado a trabalhar em ambientes ágeis com **Scrum**, usando **GitFlow**, integrações de API e testes unitários, sempre em colaboração com equipes multidisciplinares.
 
-🌐 Conheça meu trabalho em **[jpcd.dev](https://jpcd.dev)** · 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/joaopaulocsouza)
+🌐 Conheça meu trabalho em **[jpcs.dev](https://jpcs.dev)** · 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/joaopaulocsouza)
 
 ## 💼 Experiência
 
@@ -42,16 +42,6 @@ Estou acostumado a trabalhar em ambientes ágeis com **Scrum**, usando **GitFlow
 
 - **Bacharelado em Ciência da Computação** — Universidade Estadual de Londrina (UEL), concluído em fev/2025
 - 🇧🇷 Português nativo · 🇺🇸 Inglês intermediário (boa leitura e compreensão auditiva)
-
-## 🚀 Projetos em destaque
-
-| Projeto | O que é |
-| --- | --- |
-| **SUDT (ERP)** | Sistema corporativo de RH, PPC, estoque, relatórios automatizados e ordens de serviço |
-| **DHM 4.0** | Monitoramento remoto de equipamentos da indústria sucroalcooleira |
-| **IndustrySight** | Controle e monitoramento remoto de equipamentos industriais |
-| **Conecta** | Autenticação corporativa com Single Sign-On (SSO) |
-| **Nexus** | Planejamento, monitoramento e gestão de robôs AMR |
 
 ## 🛠️ Tecnologias
 
