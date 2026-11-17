@@ -26,11 +26,6 @@ Estou acostumado a trabalhar em ambientes ágeis com **Scrum**, usando **GitFlow
 ## 💼 Experiência
 
 **Desenvolvedor Full Stack · Concent Sistemas** — _jul/2025 – atual · Londrina, PR_
-- Sistema de **CRM** para gestão de interações com clientes e fluxos de trabalho laboratoriais
-- Sistema completo de **atendimento a pacientes**: gestão de filas, geração de senhas, painéis de atendimento e chamadas
-- **Quadro Kanban** para otimizar os fluxos internos do laboratório e **chats em tempo real** para a comunicação interna
-- **Chat com IA** que consulta documentos, exames e dados internos dos laboratórios, usando **RAG** e embeddings
-- Funções serverless com **AWS Lambda** para automação, protótipos de interface e definição de padrões de desenvolvimento
 
 **Desenvolvedor Full Stack · Tectrol Automação Industrial** — _jul/2021 – jul/2025 · Londrina, PR_
 - Levantamento de requisitos e desenho de fluxos de sistema
